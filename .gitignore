@@ -34,4 +34,4 @@ Thumbs.db
 *.bak
 *.swp
 
-/data
+/dataoutputs/
