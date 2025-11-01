@@ -215,8 +215,3 @@ You can still measure average inference time using `batch_infer.py` (ensure it u
 ## **Author**
 
 **IIT2023139 — Krishna Sikheriya**
-
------
-
-```
-```
