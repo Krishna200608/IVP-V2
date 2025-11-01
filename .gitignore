@@ -13,12 +13,12 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# # Output directories (generated data/models/predictions)
-# outputs/
-# *.npz
-# *.joblib
-# *.csv
-# *.h5
+# Output directories (generated data/models/predictions)
+outputs/
+*.npz
+*.joblib
+*.csv
+*.h5
 
 # Logs
 *.log
@@ -34,4 +34,4 @@ Thumbs.db
 *.bak
 *.swp
 
-/dataoutputs/
+/data
