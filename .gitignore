@@ -1,0 +1,37 @@
+# Python environment
+venv/
+thermal_env*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output directories (generated data/models/predictions)
+outputs/
+*.npz
+*.joblib
+*.csv
+*.h5
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+/data
